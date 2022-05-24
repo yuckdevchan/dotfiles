@@ -34,10 +34,10 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 
 To clone: ```git clone https://github.com/yuckdevchan/dotfiles```
 
-If you can't use git then click on the **Downloads ZIP** button on this repository.
+If you can't use git then click on the ***Downloads ZIP*** button on this repository.
 
 ### Apply these to your system
 
-**Make sure if you're using a GUI file manager, switch on hidden files visibility. If you're using a terminal then when listing files then use ```ls -a``` or ```lsd -a```.**
+***Make sure if you're using a GUI file manager, switch on hidden files visibility. If you're using a terminal then when listing files then use ```ls -a``` or ```lsd -a```.***
 
-Drag and drop, or **CTRL+C** and **CTRL+V** or ```mv``` and ```cp``` all of the configurations you want on your system. For example, config files and folders in the **.config** folder, drag the ones you want to your **.config** file. Do the same with /usr, and any files that are just in the main folder that you downloaded from here, just put the ones you want in your home directory.
+Drag and drop, or ***CTRL+C*** and ***CTRL+V*** or ```mv``` and ```cp``` all of the configurations you want on your system. For example, config files and folders in the ***.config*** folder, drag the ones you want to your ***.config*** file. Do the same with /usr, and any files that are just in the main folder that you downloaded from here, just put the ones you want in your home directory.
