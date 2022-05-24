@@ -4,7 +4,7 @@ This includes all my configuration files for my **nix* systems and a little webs
 
 Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although not everything has been thouroughly tested.
 
-##Included:
+## Included:
 
 ### Configuration Files
 
