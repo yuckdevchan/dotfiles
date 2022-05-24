@@ -2,6 +2,8 @@
 My config files.
 This includes all my configuration files for my *nix* systems and a little website to go with it.
 
+Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although not everything has been thouroughly tested.
+
 Included:
 
 ## Configuration Files
