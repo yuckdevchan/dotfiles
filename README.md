@@ -14,16 +14,16 @@ Included:
 * GTK 3.0 - GTK 3/4 configuration
 * xorg-xinit - manages autostart and environment variables
 * Wallpapers - My wallpapers that I've made in GIMP mostly
-* ZSH - zshrc included, shell configuration
-* Alacritty - Alacritty terminal configuration
-* Kitty - Kitty terminal configuration
-* i3 - i3wm configuration
+* [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
+* [Alacritty](https://github.com/alacritty/alacritty) - Alacritty terminal configuration
+* [Kitty](https://github.com/kovidgoyal/kitty) - Kitty terminal configuration
+* [i3](https://i3wm.org) - i3wm configuration
 
 ## My own scripts
 
 * Time & Date notification script made by me in python
 * Helpful MPlayer FIFO script
-* Pattery - Python battery tray icon made by me
+* [Pattery](https://github.com/yuckdevchan/pattery) - Python battery tray icon made by me
 * Picom launch script
-* Ralculator - Ruby calculator
-* Palculator - Python calculator
+* [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
+* [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
