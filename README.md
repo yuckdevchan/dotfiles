@@ -12,8 +12,8 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
 * [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
 * [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
-* xorg-xinit - manages autostart and environment variables
-* Wallpapers - My wallpapers that I've made in GIMP mostly
+* [xorg-xinit](https://www.x.org/archive/X11R6.8.1/doc/xinit.1.html) - manages autostart and environment variables
+* [Wallpapers](https://github.com/yuckdevchan/dotfiles/tree/main/wallpapers) - My wallpapers that I've made in GIMP mostly
 * [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
 * [Alacritty](https://github.com/alacritty/alacritty) - Alacritty terminal configuration
 * [Kitty](https://github.com/kovidgoyal/kitty) - Kitty terminal configuration
@@ -21,10 +21,10 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 
 ### My own scripts
 
-* Time & Date notification script made by me in python
-* Helpful MPlayer FIFO script
+* [Time & Date notification script made by me in python](https://github.com/yuckdevchan/](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/time_hud.py)
+* [Helpful MPlayer FIFO script](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/mplayer-fifo.sh)
 * [Pattery](https://github.com/yuckdevchan/pattery) - Python battery tray icon made by me
-* Picom launch script
+* [Picom launch script](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/picom.sh)
 * [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
 * [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
 
