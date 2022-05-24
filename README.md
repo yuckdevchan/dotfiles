@@ -4,9 +4,9 @@ This includes all my configuration files for my **nix* systems and a little webs
 
 Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although not everything has been thouroughly tested.
 
-Included:
+##Included:
 
-## Configuration Files
+### Configuration Files
 
 * [CWM](https://man.openbsd.org/cwm.1) - My Window Manager
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
@@ -19,7 +19,7 @@ Included:
 * [Kitty](https://github.com/kovidgoyal/kitty) - Kitty terminal configuration
 * [i3](https://i3wm.org) - i3wm configuration
 
-## My own scripts
+### My own scripts
 
 * Time & Date notification script made by me in python
 * Helpful MPlayer FIFO script
@@ -27,3 +27,7 @@ Included:
 * Picom launch script
 * [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
 * [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
+
+##How to guide:
+
+To clone: ```git clone https://github.com/yuckdevchan/dotfiles```
