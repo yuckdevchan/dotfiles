@@ -112,3 +112,5 @@ alias cfg="cd .config"
 alias emacs="emacsclient -c -a 'emacs'"
 alias bs="doas xbacklight -set"
 alias >="|"
+
+pokemon-colorscripts -r --no-title
