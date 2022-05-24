@@ -21,7 +21,7 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 
 ### My own scripts
 
-* [Time & Date notification script made by me in python](https://github.com/yuckdevchan/](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/time_hud.py)
+* [Time & Date notification script made by me in python](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/time_hud.py)
 * [Helpful MPlayer FIFO script](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/mplayer-fifo.sh)
 * [Pattery](https://github.com/yuckdevchan/pattery) - Python battery tray icon made by me
 * [Picom launch script](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/picom.sh)
