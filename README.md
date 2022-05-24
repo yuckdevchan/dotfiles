@@ -28,6 +28,6 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 * [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
 * [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
 
-##How to guide:
+## How to guide:
 
 To clone: ```git clone https://github.com/yuckdevchan/dotfiles```
