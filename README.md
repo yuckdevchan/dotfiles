@@ -8,10 +8,10 @@ Included:
 
 ## Configuration Files
 
-* CWM - My Window Manager
+* [CWM](https://man.openbsd.org/cwm.1) - My Window Manager
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
-* GTK 2.0 - GTK 2 configuration
-* GTK 3.0 - GTK 3/4 configuration
+* [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
+* [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
 * xorg-xinit - manages autostart and environment variables
 * Wallpapers - My wallpapers that I've made in GIMP mostly
 * [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
