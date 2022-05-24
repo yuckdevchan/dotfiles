@@ -3,6 +3,9 @@ My config files.
 This includes all my configuration files for my *nix* systems and a little website to go with it.
 
 Included:
+
+## Configuration Files
+
 * CWM - My Window Manager
 * Pijulius's Picom - My Composite Manager
 * GTK 2.0 - GTK 2 configuration
@@ -13,6 +16,9 @@ Included:
 * Alacritty - Alacritty terminal configuration
 * Kitty - Kitty terminal configuration
 * i3 - i3wm configuration
+
+## My own scripts
+
 * Time & Date notification script made by me in python
 * Helpful MPlayer FIFO script
 * Pattery - Python battery tray icon made by me
