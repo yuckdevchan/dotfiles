@@ -9,7 +9,7 @@ Included:
 ## Configuration Files
 
 * CWM - My Window Manager
-* Pijulius's Picom - My Composite Manager
+* [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
 * GTK 2.0 - GTK 2 configuration
 * GTK 3.0 - GTK 3/4 configuration
 * xorg-xinit - manages autostart and environment variables
