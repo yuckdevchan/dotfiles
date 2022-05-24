@@ -34,7 +34,7 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 
 To clone: ```git clone https://github.com/yuckdevchan/dotfiles```
 
-If you can't use git then click on the ==Downloads ZIP== button on this repository.
+If you can't use git then click on the **Downloads ZIP** button on this repository.
 
 ### Apply these to your system
 
