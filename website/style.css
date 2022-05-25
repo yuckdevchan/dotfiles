@@ -7,6 +7,10 @@ p {
   color: white; 
 }
 
+li {
+  color: white;
+}
+  
 h1 {
   color: white; 
 }
@@ -26,3 +30,4 @@ h4 {
 a {
   color: #539bf5;
 }
+
