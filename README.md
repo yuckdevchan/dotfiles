@@ -7,8 +7,8 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 ## Included:
 
 ### Configuration Files
-
-* [CWM](https://man.openbsd.org/cwm.1) - My Window Manager
+* [CWM](https://man.openbsd.org/cwm.1) - My floating Window Manager
+* [Qtile](http://www.qtile.org) - My Tiling Window Manager
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
 * [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
 * [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
