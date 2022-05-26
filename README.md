@@ -12,6 +12,7 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
 * [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
 * [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
+* [Dunst](https://dunst-project.org) - Notification Daemon
 * [xorg-xinit](https://www.x.org/archive/X11R6.8.1/doc/xinit.1.html) - manages autostart and environment variables
 * [Wallpapers](https://github.com/yuckdevchan/dotfiles/tree/main/wallpapers) - My wallpapers that I've made in GIMP mostly
 * [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
