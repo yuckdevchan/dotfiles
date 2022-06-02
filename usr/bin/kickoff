@@ -1,0 +1,12 @@
+#!/bin/sh
+#
+# Autostart all programs I need
+
+doas systemctl start bluetooth
+bluetoothctl power on
+picom --vsync --animations --animation-for-open-window zoom
+nitrogen --restore
+xrandr --output HDMI-1-0 --mode 1920x1080
+dunst
+lxpolkit
+python /home/tux/scripts/temperature_warning_hud.py
