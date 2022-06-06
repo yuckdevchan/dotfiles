@@ -10,14 +10,16 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 * [CWM](https://man.openbsd.org/cwm.1) - My floating Window Manager
 * [Qtile](http://www.qtile.org) - My Tiling Window Manager
 * [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
+* [Firefox](https://www.mozilla.org/en-US/firefox/products/) - My browser
 * [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
 * [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
 * [Dunst](https://dunst-project.org) - Notification Daemon
 * [xorg-xinit](https://www.x.org/archive/X11R6.8.1/doc/xinit.1.html) - manages autostart and environment variables
 * [Wallpapers](https://github.com/yuckdevchan/dotfiles/tree/main/wallpapers) - My wallpapers that I've made in GIMP mostly
 * [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
+* [Thunar](https://docs.xfce.org/xfce/thunar/start) - My file manager, Thunar.
+* [Kitty](https://github.com/kovidgoyal/kitty) - Kitty, my terminal
 * [Alacritty](https://github.com/alacritty/alacritty) - Alacritty terminal configuration
-* [Kitty](https://github.com/kovidgoyal/kitty) - Kitty terminal configuration
 * [i3](https://i3wm.org) - i3wm configuration
 
 ### My own scripts
