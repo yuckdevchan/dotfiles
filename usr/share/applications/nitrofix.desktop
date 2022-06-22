@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Nitrofix
+GenericName=Nitrogen restoration
+Icon=cm_refresh
+Exec=nitrogen --restore
