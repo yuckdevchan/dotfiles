@@ -33,7 +33,7 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 
 ### My own desktop files
 
-* [nitrofix](https://github.com/yuckdevchan/dotfiles/blob/main/usr/share/applications/nitrofix.desktop) - Nitrogen Restoration desktop file (requires nitrogen to be installed and have a wallpaper previously set on it)
+* [nitrofix](https://github.com/yuckdevchan/dotfiles/blob/main/usr/share/applications/nitrofix.desktop) - Nitrogen Restoration desktop file (requires nitrogen to be installed + have a wallpaper set)
 * [kickoff](https://github.com/yuckdevchan/dptfiles/blob/main/usr/share/applications/kickoff.desktop) - Desktop file for my startup script
 
 ## How to guide:
