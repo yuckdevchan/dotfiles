@@ -31,6 +31,11 @@ Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although n
 * [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
 * [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
 
+### My own desktop files
+
+* [nitrofix](https://github.com/yuckdevchan/dotfiles/blob/main/usr/share/applications/nitrofix.desktop) - Nitrogen Restoration desktop file (requires nitrogen to be installed and have a wallpaper previously set on it)
+* [kickoff](https://github.com/yuckdevchan/dptfiles/blob/main/usr/share/applications/kickoff.desktop) - Desktop file for my startup script
+
 ## How to guide:
 
 ### Get a hold of the files
