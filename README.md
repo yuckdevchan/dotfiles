@@ -1,4 +1,7 @@
 # dotfiles - *Configuration files at their finest.*
+
+[Website](https://dotfilez.netlify.app/) - (Better for everything beneath.)
+
 My config files.
 This includes all my configuration files for my **nix* systems and a little website to go with it.
 
