@@ -51,7 +51,7 @@ If you can't use git then click on the ***Download ZIP*** button on this reposit
 
 #### Prerequisites
 
-***Make sure if you're using a GUI file manager, switch on hidden files visibility. If you're using a terminal then when listing files then use ```ls -a``` or ```lsd -a```.***
+***Make sure if you're using a GUI file manager, switch on hidden files visibility. If you're using a terminal then when listing files then use ```ls -a``` or [```lsd```](https://github.com/Peltoche/lsd) ```-a```.***
 
 #### Application
 
