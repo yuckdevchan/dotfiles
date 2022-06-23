@@ -3,7 +3,7 @@
 [Website](https://dotfilez.netlify.app/) - (Better for everything beneath.)
 
 My config files.
-This includes all my configuration files for my **nix* systems and a little website to go with it.
+This includes all my configuration files for my [**nix*](https://en.wikipedia.org/wiki/Unix-like) systems and a little website to go with it.
 
 Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https://www.kernel.org/), [OpenBSD](https://www.openbsd.org/) and [FreeBSD](https://www.freebsd.org/) although not everything has been thouroughly tested.
 
