@@ -45,7 +45,7 @@ Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https:
 
 To clone: ```git clone https://github.com/yuckdevchan/dotfiles```
 
-If you can't use git then click on the ***Download ZIP*** button on this repository.
+If you can't use git then click on the ***[Download ZIP](https://github.com/yuckdevchan/dotfiles/archive/refs/heads/main.zip)*** button on this repository.
 
 ### Apply these to your system
 
