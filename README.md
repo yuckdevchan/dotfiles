@@ -5,7 +5,7 @@
 My config files.
 This includes all my configuration files for my **nix* systems and a little website to go with it.
 
-Most of this stuff should work on both GNU/Linux, OpenBSD and FreeBSD although not everything has been thouroughly tested.
+Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https://www.kernel.org/), [OpenBSD](https://www.openbsd.org/) and [FreeBSD](https://www.freebsd.org/) although not everything has been thouroughly tested.
 
 ## Included:
 
