@@ -33,11 +33,12 @@ Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https:
 * [Picom launch script](https://github.com/yuckdevchan/dotfiles/blob/main/scripts/picom.sh)
 * [Ralculator](https://github.com/yuckdevchan/ralculator) - Ruby calculator
 * [Palculator](https://github.com/yuckdevchan/palculator) - Python calculator
+* [termbar-linux](https://github.com/yuckdevchan/termbar-linux) - Fork of [termbar](github.com/gonzalo-/termbar) ported to Linux from OpenBSD
 
 ### My own desktop files
 
 * [nitrofix](https://github.com/yuckdevchan/dotfiles/blob/main/usr/share/applications/nitrofix.desktop) - Nitrogen Restoration desktop file (requires nitrogen to be installed + have a wallpaper set)
-* [kickoff](https://github.com/yuckdevchan/dptfiles/blob/main/usr/share/applications/kickoff.desktop) - Desktop file for my startup script
+* [kickoff](https://github.com/yuckdevchan/dotfiles/blob/main/usr/share/applications/kickoff.desktop) - Desktop file for my startup script
 
 ## How to guide:
 
