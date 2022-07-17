@@ -32,7 +32,7 @@ bind-key MS-e "python /home/tux/scripts/temperature_hud.py"
 bind-key M-Return "kitty"
 ## Run Launcher
 bind-key M-d "rofi -show drun -show-icons"
-bind-key MS-d "rofi -show window -show-icons"
+bind-key MS-d "rofi -show run -show-icons"
 bind-key 5-d "rofi -show filebrowser -show-icons"
 #bind-key M-d dmenu_run
 
@@ -114,3 +114,11 @@ ignore "Vala-panel"
 ignore "vala-panel"
 ignore "Vala-Panel"
 ignore "ValaPanel"
+ignore "nwg-panel"
+autogroup 0 "nwg-panel"
+
+# termbar stuff
+ignore						"xconsole"
+ignore						"termbar"
+autogroup	0				xconsole,XConsole
+autogroup	0				"termbar,termbar"
