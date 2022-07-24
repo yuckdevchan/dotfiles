@@ -24,6 +24,7 @@ control_chars = ['','','','']
 # example:
 display_player_prefix = {
     "Spot":  '',
+    "spotify": '',
     "firefox":  '',
     "default":  ''
 }
