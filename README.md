@@ -7,12 +7,15 @@ This includes all my configuration files for my [**nix*](https://en.wikipedia.or
 
 Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https://www.kernel.org/), [OpenBSD](https://www.openbsd.org/) and [FreeBSD](https://www.freebsd.org/) although not everything has been thouroughly tested.
 
-## Included:
+## Configuration Files
+### Desktops
+* [i3](https://i3wm.org) - simple and easily configured tiling window manager
+* [CWM](https://man.openbsd.org/cwm.1) - a nice and lightweight floating window manager
+* [Qtile](http://www.qtile.org) - feature-rich tiling window manager written and configured in python
+* [Pijulius's Picom](https://github.com/pijulius/picom) - composite manager I used to use
+* Hyprland - wlroots compositor and window manager package with smooth animations and easy configuration
 
-### Configuration Files
-* [CWM](https://man.openbsd.org/cwm.1) - My floating Window Manager
-* [Qtile](http://www.qtile.org) - My Tiling Window Manager
-* [Pijulius's Picom](https://github.com/pijulius/picom) - My Composite Manager
+### Other
 * [Firefox](https://www.mozilla.org/en-US/firefox/products/) - My browser
 * [GTK 2.0](https://www.gtk.org/) - GTK 2 configuration
 * [GTK 3.0](https://www.gtk.org/) - GTK 3/4 configuration
@@ -20,10 +23,9 @@ Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https:
 * [xorg-xinit](https://www.x.org/archive/X11R6.8.1/doc/xinit.1.html) - manages autostart and environment variables
 * [Wallpapers](https://github.com/yuckdevchan/dotfiles/tree/main/wallpapers) - My wallpapers that I've made in GIMP mostly
 * [ZSH](https://www.zsh.org) - My shell, zshrc included, shell configuration
-* [Thunar](https://docs.xfce.org/xfce/thunar/start) - My file manager, Thunar.
-* [Kitty](https://github.com/kovidgoyal/kitty) - Kitty, my terminal
+* [Thunar](https://docs.xfce.org/xfce/thunar/start) - thunar (GTK file manager) custom stuff
+* [Kitty](https://github.com/kovidgoyal/kitty) - Kitty terminal configuration
 * [Alacritty](https://github.com/alacritty/alacritty) - Alacritty terminal configuration
-* [i3](https://i3wm.org) - i3wm configuration
 
 ### My own scripts
 
