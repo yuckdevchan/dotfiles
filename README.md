@@ -13,7 +13,7 @@ Most of this stuff should work on both [GNU](https://www.gnu.org)/[Linux](https:
 * [CWM](https://man.openbsd.org/cwm.1) - a nice and lightweight floating window manager
 * [Qtile](http://www.qtile.org) - feature-rich tiling window manager written and configured in python
 * [Pijulius's Picom](https://github.com/pijulius/picom) - composite manager I used to use
-* Hyprland - wlroots compositor and window manager package with smooth animations and easy configuration
+* [Hyprland](https://hyprland.org/) - wlroots compositor and window manager package with smooth animations and easy configuration
 
 ### Other
 * [Firefox](https://www.mozilla.org/en-US/firefox/products/) - My browser
