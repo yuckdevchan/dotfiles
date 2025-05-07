@@ -16,6 +16,7 @@
         "sway/window"
     ],
     "modules-right": [
+        "tray",
         "mpd",
         "pulseaudio",
         "network",
@@ -23,7 +24,6 @@
         "power-profiles-daemon",
         "battery",
         "clock",
-        "tray"
     ],
     // Modules configuration
     // "sway/workspaces": {
